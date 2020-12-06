@@ -1,0 +1,17 @@
+tensorflow-gpu==1.14
+keras==2.2.4
+sklearn
+flask==1.1.2
+flask_materialize==0.2.4
+imageio==2.9.0
+opencv-python==4.1.2.30
+imgaug==0.4.0
+SimpleITK==2.0.0
+pydicom==2.0.0
+numpy==1.19.2
+scipy==1.5.2
+h5py==2.10.0
+Pillow==7.2.0
+Markdown==3.2.2
+kiwisolver==1.2.0
+zipp==3.3.0
